@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://scoopsearch.github.io/static/css/main.dee2b702.css",
-    "main.js": "https://scoopsearch.github.io/static/js/main.183f4094.js",
-    "static/js/787.2968bc0c.chunk.js": "https://scoopsearch.github.io/static/js/787.2968bc0c.chunk.js",
+    "main.js": "https://scoopsearch.github.io/static/js/main.38d9e234.js",
+    "static/js/787.acc30ebf.chunk.js": "https://scoopsearch.github.io/static/js/787.acc30ebf.chunk.js",
     "index.html": "https://scoopsearch.github.io/index.html",
     "main.dee2b702.css.map": "https://scoopsearch.github.io/static/css/main.dee2b702.css.map",
-    "main.183f4094.js.map": "https://scoopsearch.github.io/static/js/main.183f4094.js.map",
-    "787.2968bc0c.chunk.js.map": "https://scoopsearch.github.io/static/js/787.2968bc0c.chunk.js.map"
+    "main.38d9e234.js.map": "https://scoopsearch.github.io/static/js/main.38d9e234.js.map",
+    "787.acc30ebf.chunk.js.map": "https://scoopsearch.github.io/static/js/787.acc30ebf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dee2b702.css",
-    "static/js/main.183f4094.js"
+    "static/js/main.38d9e234.js"
   ]
 }
